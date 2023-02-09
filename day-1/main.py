@@ -12,4 +12,9 @@ print(len(input("what is your name ?"))) # out is number of your character name
 name = input("what is your name ?")
 numOfName = len(name)
 #print(name + "have" + numOfName + "character name") #Wrong
-print( name +"have" + str(numOfName) + "character name") #True
+print( name +"have" + str(numOfName) + "character name") #True 
+#Type casting with python : str() or flout() or int() ...
+
+
+
+
