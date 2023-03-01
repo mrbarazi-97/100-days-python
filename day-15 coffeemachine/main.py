@@ -30,9 +30,6 @@ resources = {
     "coffee": 100,
 }
 
-money = {
-    "value": 0,
-}
 
 
 def is_resource_sufficient(order_ingredients):
